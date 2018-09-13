@@ -5,6 +5,6 @@
 
 int main(int argc, char *argv[]) 
 {
-printf("HI, HELLO?! I'm EunHye!/n");
+printf("HI, HELLO?! I'm EunHye~!/n");
 	return 0;
 }
